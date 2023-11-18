@@ -1,0 +1,75 @@
+#main {
+    text-align: center;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    gap: 20px;
+}
+
+.container {
+    padding: 15px;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.page-divider{
+    width: 100%;
+}
+
+.flex-center{
+    justify-content: center;
+}
+
+#editor{
+    border: 1px solid black;
+}
+
+#input{
+    border: 0;
+    width: 100%;
+    height: 95%;
+}
+
+#input:focus {
+    outline: none;
+}
+
+.inner-container{
+    width: 60%;
+    height: 150px;
+}
+
+#send-note-container {
+    text-align: right;
+}
+
+#send-note-btn{
+    border-radius: 50%;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#notes {
+    margin: 0;
+    padding: 0;
+}
+
+#notes-header {
+    gap: 10px;
+}
+
+#notes > li {
+    list-style-type: none;
+    text-align: left;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
