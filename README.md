@@ -18,7 +18,7 @@ A simple web application for creating and managing virtual sticky notes. This ap
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sticky-notes-app.git
+   git clone https://github.com/Vn0m/sticky-notes.git
 2. Open the index.html file in your preferred web browser.
 ## Usage
 - To create a new sticky note, type your note in the input box.
