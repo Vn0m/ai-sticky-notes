@@ -1,6 +1,6 @@
-# sticky-notes
+# Ai sticky-notes
 
-A simple web application for creating and managing virtual sticky notes. This app is built using HTML, CSS, and JavaScript.
+A simple web application for creating and managing virtual sticky notes using chat gpt api. This app is built using HTML, CSS, and JavaScript.
 
 ## Features
 
